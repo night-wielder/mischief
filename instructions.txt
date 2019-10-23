@@ -1,2 +1,1 @@
-system.exe
-https://github.com/night-wielder/mischief/raw/master/change.exe
+
